@@ -1,5 +1,7 @@
 # alp-language [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-language.svg)](https://greenkeeper.io/)
+
 language context in alp framework
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
